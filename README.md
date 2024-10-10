@@ -1,3 +1,3 @@
-Practice Question of javascript
+first project
 
 HTML CSS
